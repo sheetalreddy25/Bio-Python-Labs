@@ -12,7 +12,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ---
 
-## 🚀 Completed and Upcoming Projects
+## 🚀 Project: Accessing Bioinformatics Databases using Biopython
 
 <details>
   <summary>📌 Accessing Bioinformatics Databases using Biopython </summary>
