@@ -12,9 +12,7 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ---
 
-## 🚀 Project: Accessing Bioinformatics Databases using Biopython
-
-###
+### 🚀 Project: Accessing Bioinformatics Databases using Biopython
 
 <details>
   <summary>✅ Sequence Alignment using NCBI BLAST </summary>
