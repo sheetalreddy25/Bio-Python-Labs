@@ -27,10 +27,6 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 #### Overview
 This part of the project involves performing a Nucleotide BLAST (BLASTn) search using the TP53 gene sequence. BLASTn is used to compare a nucleotide sequence against the NCBI nucleotide database to identify homologous sequences.
 
-#### Dataset
-- The dataset used is the **TP53 gene sequence**, available at:  
-  [NCBI TP53 Gene](https://www.ncbi.nlm.nih.gov/gene/7157)
-
 </details>
 
 <details>
@@ -40,11 +36,6 @@ This part of the project involves performing a Nucleotide BLAST (BLASTn) search 
 
 #### Overview
 This part of the project involves performing a Protein BLAST (BLASTp) search using the translated TP53 protein sequence. BLASTp is used to compare an amino acid sequence against the NCBI protein database to identify homologous sequences.
-
-#### Dataset
-- The dataset used is the **TP53 protein sequence**, available at:  
-  - [UniProt P04637](https://www.uniprot.org/uniprotkb/P04637/entry)  
-  - [FASTA Download](https://rest.uniprot.org/uniprotkb/P04637.fasta)
 
 </details>
 
