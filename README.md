@@ -132,6 +132,14 @@ This part identifies functional domains in the human **TP53 protein sequence** (
 
 <details>
   <summary> 🔜 Access KEGG Database  </summary>
+
+  #### [View Documentation]()
+  
+  #### [🧪 View Python Notebook]()
+
+  #### Overview
+  This part of the project involves...
+  
 </details>
 
 </details>
