@@ -14,9 +14,6 @@ Welcome to **My Bio Hub**, a personal repository showcasing projects I've built 
 
 ## 🚀 Project: Accessing Bioinformatics Databases using Biopython
 
-<details>
-  <summary>📌 Accessing Bioinformatics Databases using Biopython </summary>
-
 ###
 
 <details>
@@ -140,8 +137,6 @@ This part identifies functional domains in the human **TP53 protein sequence** (
   #### Overview
   This section demonstrates how to programmatically interface with the Kyoto Encyclopedia of Genes and Genomes (KEGG) database. Using Biopython's REST API, the project automates the retrieval of human TP53 gene data, performs custom string parsing to identify associated signaling pathways, and visualizes biological interaction maps directly within the workspace.
   
-</details>
-
 </details>
 
 ---
