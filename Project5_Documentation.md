@@ -32,7 +32,7 @@ To **retrieve**, **parse**, and **visualize** the signaling pathways associated 
 
 ### 📓 Notebook
 
-- [View Python Notebook]([YOUR_GITHUB_NOTEBOOK_LINK_HERE](https://github.com/sheetalreddy25/Bio-Python-Labs/blob/e9686318d4ab065ea55adb5facf97635ebafc3bf/access-kegg-database.ipynb))
+- [View Python Notebook](https://github.com/sheetalreddy25/Bio-Python-Labs/blob/e9686318d4ab065ea55adb5facf97635ebafc3bf/access-kegg-database.ipynb)
 
 ### 🔄 Workflow
 
