@@ -135,10 +135,10 @@ This part identifies functional domains in the human **TP53 protein sequence** (
 
   #### [View Documentation]()
   
-  #### [🧪 View Python Notebook]()
+  #### [🧪 View Python Notebook](https://github.com/sheetalreddy25/Bio-Python-Labs/blob/e9686318d4ab065ea55adb5facf97635ebafc3bf/access-kegg-database.ipynb)
 
   #### Overview
-  This part of the project involves...
+  This section demonstrates how to programmatically interface with the Kyoto Encyclopedia of Genes and Genomes (KEGG) database. Using Biopython's REST API, the project automates the retrieval of human TP53 gene data, performs custom string parsing to identify associated signaling pathways, and visualizes biological interaction maps directly within the workspace.
   
 </details>
 
